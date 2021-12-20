@@ -24,7 +24,7 @@ body {
   margin: 0px;
 }
 .menu {
-  float: center;
+  float: right;
 }
 nav {
   width: 100%;
@@ -169,8 +169,8 @@ p {
   margin: auto;
 }
 .footer-section {
-  width: 100%;
-  margin: auto;
+  width: 20%;
+  margin: 0 auto;
 }
 h3 {
   font-family: "comic sans ms";
@@ -183,17 +183,9 @@ h3 {
 }
 #copyright {
   text-align: center;
-  width: 20%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #123;
-  bottom: -250px;
-  z-index: 1;
-  clear: both;
-  position: relative;
-  height: 200px;
-  margin-top: -200px;
+  width: 100%;
+  padding: 10px 0px 10px 0px;
+  margin-top: 10px;
 }
 
 @media screen and (max-width: 991.98px) {
