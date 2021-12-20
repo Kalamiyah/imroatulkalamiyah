@@ -14,7 +14,7 @@
 <div id="section">
 <div class="container">
     <form method="post" action="adduser.php">
-        <h2 class="text-center">Pendaftaran Akun</h2>
+        <h2 class="text-center mb-4">Pendaftaran Akun</h2><br>
         <label class="text-center mb-4">Username:</label><br>
         <input type="text" id="username" name="username" required maxlength="100"><br>
         <label class="text-center mb-4">Email:</label><br>
